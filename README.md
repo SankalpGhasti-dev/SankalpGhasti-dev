@@ -15,13 +15,13 @@
 
 - 🤝 I’m looking for help with **Penetration Testing & Vulnerability Assessment**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sankalp-ghasti](https://github.com/sankalp-ghasti)
+- 👨‍💻 All of my projects are available at https://github.com/sankalp-ghasti
 
 - 💬 Ask me about **Ethical Hacking, VAPT, Cybersecurity, Python, Open-Source Development**
 
 - 📫 How to reach me **ghastisankalp7@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sankalp-ghasti](https://www.linkedin.com/in/sankalp-ghasti)
+- 📄 Know about my experiences https://www.linkedin.com/in/sankalp-ghasti
 
 - ⚡ Fun fact **I believe in "break it to secure it" - understanding systems from an attacker's perspective makes me a better defender!**
 
