@@ -25,7 +25,6 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=as&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="as's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=as&theme=radical&hide_border=true&cache_seconds=86400" alt="as's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=as&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="asfa's GitHub Trophies" />
