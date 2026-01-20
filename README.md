@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"> I'm Sankalp Ghasti</h1>
-<h3 align="center">🔐 Cybersecurity & ☁️ Cloud Enthusiast | BTech CSE @ SITCOE | Developer Member @ NVIDIA | ISC2 Certified 🚀</h3>
+<h3 align="center">🔐 Cybersecurity & ☁️ Cloud Enthusiast | BTech CSE @ SITCOE | Developer Community Member @ NVIDIA | ISC2 Certified 🚀</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=SankalpGhasti-Dev">
